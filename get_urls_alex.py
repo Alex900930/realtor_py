@@ -4,8 +4,8 @@ import requests
 import lxml.html as html
 
 
-url = "http://localhost/casas_florida.html" 
-root_url= "http://localhost/"
+url = "https://www.realtor.com/realestateandhomes-search/New-York" 
+root_url= "https://www.realtor.com/"
 
 
 
